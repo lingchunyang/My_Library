@@ -39,7 +39,7 @@ Tables
 	-Genre_books
 		id
 		fk_genre
-    fk_books
+    		fk_books
 		
 	- Genre	
 		id
